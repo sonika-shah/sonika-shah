@@ -1,4 +1,4 @@
-### <h1> Hey, there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+### <h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <!--
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 😄 About me..
 
-<img src="./working.png" align="right" height="12%" width="28%"></img>
+<img src="./working.png" align="right" height="20%" width="20%"></img>
 I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast computer passionate about learning and working with new tech.
 <br>
 I love learning new technologies and problem solving.Recently enjoying contributing to open source.
@@ -25,3 +26,22 @@ I love learning new technologies and problem solving.Recently enjoying contribut
 Also I  like sharing my learnings and programming knowledge by writing technical articles.
 You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here</a>
 <br>
+
+### ⚙️ Some Tool and Tech I use
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code></code>
+
+### 🚀 Quick Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&line_height=21" alt="Sonika's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&theme=default&line_height=27&layout=compact" />
+</p>
