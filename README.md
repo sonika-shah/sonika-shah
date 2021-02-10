@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 -->
 ### Hey there 👋
 
-I'm an Undergrad Student pursuing CSE. I'm a Tech Enthusiast computer passionate about learning and working with new tech.
-</br>
+<img src="./working.png" align="right" height="17%" width="28%"></img>
+I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast computer passionate about learning and working with new tech.
+<br>
 I love learning new technologies and problem solving.Recently enjoying contributing to open source.
 <br>
 Also I  like sharing my learnings and programming knowledge by writing technical articles.
 You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here</a>
+<br>
