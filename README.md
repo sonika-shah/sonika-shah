@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 👋
 
-<img src="./working.png" align="right" height="17%" width="28%"></img>
+<img src="./working.png" align="right" height="12%" width="28%"></img>
 I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast computer passionate about learning and working with new tech.
 <br>
 I love learning new technologies and problem solving.Recently enjoying contributing to open source.
