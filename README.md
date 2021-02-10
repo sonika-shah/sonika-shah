@@ -1,4 +1,4 @@
-
+### <h1> Hey, there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there 👋
+
 
 <img src="./working.png" align="right" height="12%" width="28%"></img>
 I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast computer passionate about learning and working with new tech.
