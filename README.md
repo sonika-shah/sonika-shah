@@ -31,7 +31,7 @@ Link to some of my latest <a href="#">projects.</a>
 - 🔭 I’m currently working on building website for institutional use
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with Devops
-- 📫 How to reach me: <a href=#">sonika-shah</a>
+- 📫 How to reach me: <a href="#">sonika-shah</a>
 - 😄 Pronouns: she/her
   
 <br><br>
