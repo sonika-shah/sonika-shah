@@ -18,14 +18,23 @@ Here are some ideas to get you started:
 
 ### 😄 About me..
 
-<img src="./working.png" align="right" height="20%" width="20%"></img>
-I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast computer passionate about learning and working with new tech.
-<br>
+<img src="./working.png" align="right" height="22%" width="25%"></img>
+I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast and passionate about learning and working with new tech.
+<br><br>
 I love learning new technologies and problem solving.Recently enjoying contributing to open source.
-<br>
-Also I  like sharing my learnings and programming knowledge by writing technical articles.
-You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here</a>
-<br>
+<br><br>
+Also I  like sharing my learnings and programming knowledge by writing technical articles.<br>
+You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here.</a>
+<br></br>
+Link to some of my latest <a href="#">projects.</a>
+
+- 🔭 I’m currently working on building website for institutional use
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with Devops
+- 📫 How to reach me: <a href=#">sonika-shah</a>
+- 😄 Pronouns: she/her
+  
+<br><br>
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
@@ -37,11 +46,12 @@ You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-a
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code></code>
 
+<br><br>
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&line_height=21" alt="Sonika's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&theme=default&line_height=27&layout=compact" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&theme=default&line_height=27&layout=compact" />-->
 </p>
