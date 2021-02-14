@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 ### 😄 About me..
 
 <img src="./working.png" align="right" height="22%" width="25%"></img>
-I'm an Undergrad Student pursuing CSE.I'm a Tech Enthusiast and passionate about learning and working with new tech.
+I'm an Undergrad Student pursuing CSE. I'm a Tech-Enthusiast and passionate about learning and working with new tech. 
 <br><br>
-I love learning new technologies and problem solving.Recently enjoying contributing to open source.
+
+ I love learning new technologies and problem-solving. Recently enjoy contributing to open source. 
 <br><br>
-Also I  like sharing my learnings and programming knowledge by writing technical articles.<br>
+
+ Also, I like sharing my learning and programming knowledge by writing technical articles.<br>
 You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here.</a>
 <br></br>
 Link to some of my latest <a href="#">projects.</a>
