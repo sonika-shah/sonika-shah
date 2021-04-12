@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="./working.png" align="right" height="22%" width="25%"></img>
 I'm an Undergrad Student pursuing CSE. I'm a Tech-Enthusiast and passionate about learning and working with new tech. 
-<br><br>
+<br>
 
  I love learning new technologies and problem-solving. Recently enjoy contributing to open source. 
 <br><br>
@@ -36,7 +36,7 @@ Link to some of my latest <a href="#">projects.</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sonika-shah-215606180">sonika-shah</a>
 - 😄 Pronouns: she/her
   
-<br><br>
+<br>
 
 ### ⚙️ Some Tool and Tech I use
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
@@ -51,7 +51,7 @@ Link to some of my latest <a href="#">projects.</a>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code></code>
 
-<br><br>
+<br>
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&line_height=21" alt="Sonika's Github Stats" />
