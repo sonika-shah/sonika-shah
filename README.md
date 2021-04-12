@@ -31,9 +31,9 @@ You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-a
 Link to some of my latest <a href="#">projects.</a>
 
 - 🔭 I’m currently working on building website for institutional use
-- 🌱 I’m currently learning React
-- 🤔 I’m looking for help with Devops
-- 📫 How to reach me: <a href="#">sonika-shah</a>
+- 🌱 I’m currently learning React.
+- 🤔 I’m looking for help with Backend Technologies.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonika-shah-215606180">sonika-shah</a>
 - 😄 Pronouns: she/her
   
 <br><br>
