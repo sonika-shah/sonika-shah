@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm an Undergrad Student pursuing CSE. I'm a Tech-Enthusiast and passionate about learning and working with new tech. 
 <br>
 
- I love learning new technologies and problem-solving. Recently enjoy contributing to open source. 
+ I love learning and building new stuff.
 <br><br>
 
  Also, I like sharing my learning and programming knowledge by writing technical articles.<br>
