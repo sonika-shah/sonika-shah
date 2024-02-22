@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 😄 About me..
 
 <img src="./working.png" align="right" height="22%" width="25%"></img>
-I'm an Undergrad Student pursuing CSE. I'm a Tech-Enthusiast and passionate about learning and working with new tech. 
+I'm an CSE graduate, a Tech-Enthusiast and passionate about learning and working with new tech. 
 <br>
 
  I love learning and building new stuff.
