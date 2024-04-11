@@ -25,7 +25,7 @@ I'm a CSE graduate, a tech enthusiast, and passionate about learning and working
  I love learning and building new stuff.
 <br><br>
 
- Also, I like sharing my learning and programming knowledge by writing technical articles.<br>
+ Also, I like to share my learning and programming knowledge by writing technical articles.<br>
 You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here.</a>
 <br></br>
 Link to some of my latest <a href="#">projects.</a>
