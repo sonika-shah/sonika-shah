@@ -31,7 +31,8 @@ You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-a
 Link to some of my latest <a href="#">projects.</a>
 
 - 🔭 I’m currently working on building website for institutional use
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently contributing to open source project [Openmetadata](https://github.com/open-metadata/OpenMetadata) (https://github.com/open-metadata/OpenMetadata)
+
 - 🤔 I’m looking for help with Backend Technologies.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sonika-shah-215606180">sonika-shah</a>
 - 😄 Pronouns: she/her
@@ -52,8 +53,10 @@ Link to some of my latest <a href="#">projects.</a>
 <code></code>
 
 <br>
-### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&line_height=21" alt="Sonika's Github Stats" />
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&theme=default&line_height=27&layout=compact" />-->
+###  GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonika-shah&theme=github_dark)
+![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&theme=github_dark)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&layout=compact&theme=github_dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sonika-shah&theme=github_dark)-->
 </p>
