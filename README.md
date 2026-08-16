@@ -1,62 +1,38 @@
 ### <h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
-<!--
-**sonika-shah/sonika-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 😄 About me..
+### Backend Engineer · Java · Distributed Systems
 
 <img src="./working.png" align="right" height="22%" width="25%"></img>
-I'm a CSE graduate, a tech enthusiast, and passionate about learning and working with new technologies.
-<br>
 
- I love learning and building new stuff.
-<br><br>
+Backend engineer with 4 years of experience, mostly in Java. I work on scalable backend services, REST APIs, and search infrastructure, and I enjoy the debugging and optimization side of things.
 
- Also, I like to share my learning and programming knowledge by writing technical articles.<br>
-You can read them <a href="https://www.geeksforgeeks.org/build-a-site-bookmark-app-with-javascript-by-using-local-storage/">here.</a>
-<br></br>
-Link to some of my latest <a href="#">projects.</a>
+A good part of my work happens in the open — I'm an active contributor to <a href="https://github.com/open-metadata/OpenMetadata">OpenMetadata</a> (300+ merged PRs), an open-source data platform, which has been a great place to learn: real scale, and code review from maintainers worldwide.
 
-- 🔭 I’m currently working on building website for institutional use
-- 🌱 I’m currently contributing to open source project [Openmetadata](https://github.com/open-metadata/OpenMetadata) (https://github.com/open-metadata/OpenMetadata)
+### 💡 Skills
 
-- 🤔 I’m looking for help with Backend Technologies.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonika-shah-215606180">sonika-shah</a>
-- 😄 Pronouns: she/her
-  
-<br>
-
-### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<img src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png" width="30"> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code></code>
+- **Languages & frameworks** — Java, Spring Boot, Dropwizard
+- **Backend** — REST APIs, microservices, distributed systems, system design
+- **Databases & caching** — PostgreSQL, MySQL, Redis, Elasticsearch / OpenSearch
+- **Cloud & DevOps** — AWS, Docker, Kubernetes, CI/CD
+- **Performance** — query optimization, caching, latency and reliability at scale
+- **AI-assisted development** — Claude and Copilot as part of my daily workflow
+- **Open source** — active contributor, comfortable with reviews and shipping in the open
 
 <br>
-###  GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonika-shah&theme=github_dark)
-![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api?username=sonika-shah&show_icons=true&theme=github_dark)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonika-shah&layout=compact&theme=github_dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=sonika-shah&theme=github_dark)-->
-</p>
+### 🛠️ Tech I work with
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+
+<br>
+
+📫 Find me on <a href="https://www.linkedin.com/in/sonika-shah71">LinkedIn</a>
