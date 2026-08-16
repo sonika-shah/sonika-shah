@@ -1,5 +1,9 @@
 <h1>Hi there 👋</h1>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sonika-shah71"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
 <img src="./working.png" align="right" height="22%" width="25%"></img>
 
 I'm Sonika, a backend engineer with 4 years of experience, mostly in Java. I work on scalable backend services, REST APIs, and search infrastructure, and I really enjoy the debugging and optimization side of things.
@@ -30,6 +34,12 @@ A good part of my work happens in the open. I'm an active contributor to <a href
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📫 Connect
+### 📊 My GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-shah71)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonika-shah&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonika-shah&theme=tokyo-night&hide_border=true&area=true" />
+</p>
